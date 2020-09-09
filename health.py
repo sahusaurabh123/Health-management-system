@@ -1,11 +1,4 @@
 
-print("*****************************HEALTH MANAGEMENT SYSTEM********************************")
-"""
-*Total 6 files,3 for exercise and 3 for diet
-*3 clients- saurabh,Tamanna,Babeena
-*Take a function which when execute take as input for client
-*Take another function to retrive exercise or diet for client
-"""
 import datetime
 
 def getdate():
